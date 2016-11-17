@@ -1,0 +1,30 @@
+body {font-family: Arial, sans-serif;}
+
+h1 {
+    font-size: 38px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+ul.ingredients-list {
+    list-style: square inside;
+}
+
+ol {
+    list-style: square;
+}
+
+header img {
+    width: 100px;
+}
+
+ul a {
+    text-decoration: none;
+    color: inherit;
+}
+
+body {
+    background-color: thistle;
+}
